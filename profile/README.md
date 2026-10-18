@@ -19,7 +19,7 @@ Canonical code belongs in this organization (mirrored to our GitLab group). Link
 
 ## Research lines
 
-Short descriptions: [docs/lines.md](../docs/lines.md) · [на русском](../docs/lines.ru.md)
+Short descriptions: [docs/lines.md](https://github.com/VectorGraphicsLab/.github/blob/main/docs/lines.md) · [на русском](https://github.com/VectorGraphicsLab/.github/blob/main/docs/lines.ru.md)
 
 ## Elsewhere
 
@@ -49,7 +49,7 @@ Short descriptions: [docs/lines.md](../docs/lines.md) · [на русском](.
 
 ## Направления исследований
 
-Кратко: [docs/lines.ru.md](../docs/lines.ru.md) · [English](../docs/lines.md)
+Кратко: [docs/lines.ru.md](https://github.com/VectorGraphicsLab/.github/blob/main/docs/lines.ru.md) · [English](https://github.com/VectorGraphicsLab/.github/blob/main/docs/lines.md)
 
 ## Где ещё
 
