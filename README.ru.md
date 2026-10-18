@@ -2,9 +2,11 @@
 
 Профиль организации и **публичная** документация [VectorGraphicsLab](https://github.com/VectorGraphicsLab).
 
-Текст на главной страницы организации — в [`profile/README.md`](profile/README.md) (English + русский).
+**[Read in English →](README.md)**
 
-- Направления: [docs/lines.ru.md](docs/lines.ru.md)
-- Список публичных репозиториев: [docs/repos.ru.md](docs/repos.ru.md)
+Текст на главной страницы организации — [`profile/README.md`](profile/README.md) ([русская версия](profile/README.ru.md)).
+
+- Направления: [docs/lines.ru.md](docs/lines.ru.md) · [docs/lines.md](docs/lines.md)
+- Список публичных репозиториев: [docs/repos.ru.md](docs/repos.ru.md) · [docs/repos.md](docs/repos.md)
 
 Здесь только **публичные** проекты и ссылки — можно показывать снаружи.
