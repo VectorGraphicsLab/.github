@@ -12,7 +12,7 @@
 |--------|----------|-------------|
 | **SVG object extraction** | Извлечение объектов из SVG по тексту (raster grounding → leaf prune) | [VectorGraphicsLab/svg-object-extractor](https://github.com/VectorGraphicsLab/svg-object-extractor) |
 | **VGLib** | Методы ML для обработки/генерации векторной графики (fork CTLab-ITMO) | [VectorGraphicsLab/VGLib](https://github.com/VectorGraphicsLab/VGLib) · upstream [CTLab-ITMO/VGLib](https://github.com/CTLab-ITMO/VGLib) |
-| **CoverGAN** | Обложки альбомов в SVG по аудио и эмоциям | [IzhanVarsky/CoverGAN](https://github.com/IzhanVarsky/CoverGAN) (обучение) · [ML-VG-CoverGAN-service-backend](https://github.com/IzhanVarsky/ML-VG-CoverGAN-service-backend) (сервис) |
+| **CoverGAN** | Обложки альбомов в SVG по аудио и эмоциям | [IzhanVarsky/CoverGAN](https://github.com/IzhanVarsky/CoverGAN) (обучение; public). Serve API private — [демо ML-VG](https://ml-vg.jarskylab.ru) |
 | **VectorNST** | Нейронный перенос стиля для векторной графики | [IzhanVarsky/VectorNST](https://github.com/IzhanVarsky/VectorNST) |
 | **VectorWeaver** | Генеративный SVG (class-conditional) | [IzhanVarsky/VectorWeaverClassConditional](https://github.com/IzhanVarsky/VectorWeaverClassConditional) |
 | **diffvg** | Дифференцируемая растеризация (fork) | [IzhanVarsky/diffvg](https://github.com/IzhanVarsky/diffvg) |

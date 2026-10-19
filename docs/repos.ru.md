@@ -6,7 +6,6 @@
 | svg-object-extractor | https://github.com/VectorGraphicsLab/svg-object-extractor | Text-guided извлечение объектов из SVG |
 | VGLib | https://github.com/VectorGraphicsLab/VGLib | Fork CTLab-ITMO/VGLib (ML для векторной графики) |
 | CoverGAN | https://github.com/IzhanVarsky/CoverGAN | Обучение |
-| ML-VG-CoverGAN-service-backend | https://github.com/IzhanVarsky/ML-VG-CoverGAN-service-backend | Inference API |
 | VectorNST | https://github.com/IzhanVarsky/VectorNST | Перенос стиля для векторов |
 | VectorWeaverClassConditional | https://github.com/IzhanVarsky/VectorWeaverClassConditional | Генеративный SVG |
 | diffvg | https://github.com/IzhanVarsky/diffvg | Fork DiffVG |

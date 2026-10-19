@@ -12,7 +12,7 @@ We work on **vector graphics + ML**: generative SVG, style transfer in the vecto
 |---------|-------------|------------|
 | **SVG object extraction** | Text-guided object extraction from existing SVG (raster grounding → leaf prune) | [VectorGraphicsLab/svg-object-extractor](https://github.com/VectorGraphicsLab/svg-object-extractor) |
 | **VGLib** | ML methods for vector graphics processing/generation (fork of CTLab-ITMO) | [VectorGraphicsLab/VGLib](https://github.com/VectorGraphicsLab/VGLib) · upstream [CTLab-ITMO/VGLib](https://github.com/CTLab-ITMO/VGLib) |
-| **CoverGAN** | Album covers as SVG from audio and emotions | [IzhanVarsky/CoverGAN](https://github.com/IzhanVarsky/CoverGAN) (train) · [ML-VG-CoverGAN-service-backend](https://github.com/IzhanVarsky/ML-VG-CoverGAN-service-backend) (serve) |
+| **CoverGAN** | Album covers as SVG from audio and emotions | [IzhanVarsky/CoverGAN](https://github.com/IzhanVarsky/CoverGAN) (train; public). Serve API private — use [ML-VG demo](https://ml-vg.jarskylab.ru) |
 | **VectorNST** | Neural style transfer for vector graphics | [IzhanVarsky/VectorNST](https://github.com/IzhanVarsky/VectorNST) |
 | **VectorWeaver** | Generative SVG (class-conditional) | [IzhanVarsky/VectorWeaverClassConditional](https://github.com/IzhanVarsky/VectorWeaverClassConditional) |
 | **diffvg** | Differentiable vector graphics rasterization (fork) | [IzhanVarsky/diffvg](https://github.com/IzhanVarsky/diffvg) |
