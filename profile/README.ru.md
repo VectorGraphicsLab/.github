@@ -19,7 +19,7 @@
 
 ## Демо-сервис
 
-- **ML Vector Tools (ML-VG):** https://ml-vg.jarskylab.ru — веб-UI (CoverGAN / VectorNST / VectorWeaver). Исходники в org приватные.
+- **ML Vector Tools (ML-VG):** https://ml-vg.jarskylab.ru — веб-UI; CoverGAN API подключён. Исходники в org приватные.
 
 ## Статьи
 

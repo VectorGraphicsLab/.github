@@ -19,7 +19,7 @@ We work on **vector graphics + ML**: generative SVG, style transfer in the vecto
 
 ## Demo service
 
-- **ML Vector Tools (ML-VG):** https://ml-vg.jarskylab.ru — web UI (CoverGAN / VectorNST / VectorWeaver). Source is private under the org.
+- **ML Vector Tools (ML-VG):** https://ml-vg.jarskylab.ru — web UI; CoverGAN API wired. Source private under the org.
 
 ## Papers
 
