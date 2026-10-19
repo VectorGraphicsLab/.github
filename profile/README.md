@@ -41,15 +41,6 @@ Authors and venues follow the published PDF / camera-ready where available. Priv
 | 2023 | Image Vectorization: a Review | Maria Dziuba, Ivan Jarsky, Valeria Efimova, Andrey Filchenkov | Zap. Nauchn. Sem. POMI 530 (2023); J. Math. Sci. translation 2024 | [arXiv](https://arxiv.org/abs/2306.06441) · [Math-Net](https://www.mathnet.ru/php/archive.phtml?jrnid=znsl&option_lang=eng&paperid=7429&wshow=paper) · [J. Math. Sci. DOI](https://doi.org/10.1007/s10958-024-07422-4) |
 | 2022 | Conditional Vector Graphics Generation for Music Cover Images | Valeria Efimova, Ivan Jarsky, Ilya Bizyaev, Andrey Filchenkov | AI4CC workshop @ CVPR 2022 (poster; not in CVPR proceedings) | [workshop schedule](https://ai-for-content-creation.github.io/2022/#schedule) · [arXiv](https://arxiv.org/abs/2205.07301) · [code](https://github.com/IzhanVarsky/CoverGAN) |
 
-### Other (rejected / unpublished keeps)
-
-Kept internally for reuse; no public paper page.
-
-| Year | Title | Venue / status |
-|------|-------|----------------|
-| 2026 | Semantic-SVG-BERT: A Source-Aware Encoder for SVG Retrieval Pipelines | Rejected at ReNeuIR @ SIGIR 2026 |
-| 2025 | VectorTDAM: Vector Technical Drawing Analyzer with Memory | Rejected at ECML-PKDD 2025 |
-
 ## Research lines
 
 Short descriptions: [docs/lines.md](https://github.com/VectorGraphicsLab/.github/blob/main/docs/lines.md) · [на русском](https://github.com/VectorGraphicsLab/.github/blob/main/docs/lines.ru.md)
