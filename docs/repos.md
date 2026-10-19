@@ -14,6 +14,6 @@
 
 Upstream of VGLib: [CTLab-ITMO/VGLib](https://github.com/CTLab-ITMO/VGLib).
 
-Private paper packs: `VectorGraphicsLab/paper-*` (often archived). Full bibliography with authors/venues/links: [org profile README](https://github.com/VectorGraphicsLab/.github/blob/main/profile/README.md#papers).
+Paper list (public links only): [org profile README](https://github.com/VectorGraphicsLab/.github/blob/main/profile/README.md#papers).
 
 Русская версия: [repos.ru.md](repos.ru.md)
