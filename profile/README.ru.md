@@ -15,8 +15,11 @@
 | **CoverGAN** | Обложки альбомов в SVG по аудио и эмоциям | [IzhanVarsky/CoverGAN](https://github.com/IzhanVarsky/CoverGAN) (обучение) · [ML-VG-CoverGAN-service-backend](https://github.com/IzhanVarsky/ML-VG-CoverGAN-service-backend) (сервис) |
 | **VectorNST** | Нейронный перенос стиля для векторной графики | [IzhanVarsky/VectorNST](https://github.com/IzhanVarsky/VectorNST) |
 | **VectorWeaver** | Генеративный SVG (class-conditional) | [IzhanVarsky/VectorWeaverClassConditional](https://github.com/IzhanVarsky/VectorWeaverClassConditional) |
-| **ML-VG frontend** | Веб-UI для демо vector-ML | [IzhanVarsky/ML-VG-service-frontend](https://github.com/IzhanVarsky/ML-VG-service-frontend) |
 | **diffvg** | Дифференцируемая растеризация (fork) | [IzhanVarsky/diffvg](https://github.com/IzhanVarsky/diffvg) |
+
+## Демо-сервис
+
+- **ML Vector Tools (ML-VG):** https://ml-vg.jarskylab.ru — веб-UI (CoverGAN / VectorNST / VectorWeaver). Исходники в org приватные.
 
 ## Статьи
 

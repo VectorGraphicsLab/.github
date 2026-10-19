@@ -15,8 +15,11 @@ We work on **vector graphics + ML**: generative SVG, style transfer in the vecto
 | **CoverGAN** | Album covers as SVG from audio and emotions | [IzhanVarsky/CoverGAN](https://github.com/IzhanVarsky/CoverGAN) (train) · [ML-VG-CoverGAN-service-backend](https://github.com/IzhanVarsky/ML-VG-CoverGAN-service-backend) (serve) |
 | **VectorNST** | Neural style transfer for vector graphics | [IzhanVarsky/VectorNST](https://github.com/IzhanVarsky/VectorNST) |
 | **VectorWeaver** | Generative SVG (class-conditional) | [IzhanVarsky/VectorWeaverClassConditional](https://github.com/IzhanVarsky/VectorWeaverClassConditional) |
-| **ML-VG frontend** | Web UI for the vector-ML demos | [IzhanVarsky/ML-VG-service-frontend](https://github.com/IzhanVarsky/ML-VG-service-frontend) |
 | **diffvg** | Differentiable vector graphics rasterization (fork) | [IzhanVarsky/diffvg](https://github.com/IzhanVarsky/diffvg) |
+
+## Demo service
+
+- **ML Vector Tools (ML-VG):** https://ml-vg.jarskylab.ru — web UI (CoverGAN / VectorNST / VectorWeaver). Source is private under the org.
 
 ## Papers
 
